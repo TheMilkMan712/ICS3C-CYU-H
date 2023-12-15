@@ -1,5 +1,5 @@
-# Programmer: 
-# Description: 
+# Programmer: Jerome
+# Description: Days in a Month
 
 months = [
     "January", 
@@ -16,3 +16,11 @@ months = [
     "December"
 ]
 
+month = input("Enter a month: ")
+
+for month in months:
+    print("Invalid month! Try again.")
+    month = input("Enter a month: ")
+
+if month == "January", or "March", or "May", or "July", or "August", or "October", or "December":
+    print(f"{month} has 31 days")
