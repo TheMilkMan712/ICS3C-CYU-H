@@ -18,9 +18,15 @@ months = [
 
 month = input("Enter a month: ")
 
-for month in months:
+while month not in months:
     print("Invalid month! Try again.")
     month = input("Enter a month: ")
 
-if month == "January", or "March", or "May", or "July", or "August", or "October", or "December":
+if month in ["January", "March", "May", "July", "August", "October", "December"]:
     print(f"{month} has 31 days")
+    
+if month in ["April", "June", "September", "November"]:
+    print(f"{month} has 30 days")
+
+if month in ["February"]:
+    print(f"{month} has 28 or 29 days")
