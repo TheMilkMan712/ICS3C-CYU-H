@@ -17,4 +17,4 @@ for age in ages:
         non_voters += 1
 
 print(f"Voters: {voters}")
-print(f"Non-Voters: {non_voters}")
+print(f"Non-voters: {non_voters}")
