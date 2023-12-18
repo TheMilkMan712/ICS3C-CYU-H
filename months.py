@@ -27,5 +27,5 @@ if month in ["January", "March", "May", "July", "August", "October", "December"]
 if month in ["April", "June", "September", "November"]:
     print(f"{month} has 30 days")
 
-if month in ["February"]:
+if month == "February":
     print(f"{month} has 28 or 29 days")
