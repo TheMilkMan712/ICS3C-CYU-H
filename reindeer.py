@@ -3,11 +3,11 @@
 
 
 santas_reindeer = ["Rudolph",
-                   "Dasher!",
-                   "Danser!",
-                   "Prancer!",
-                   "Vixen!",
-                   "Comet!",
+                   "Dasher",
+                   "Danser",
+                   "Prancer",
+                   "Vixen",
+                   "Comet",
                    "Cupid",
-                   "Donder!",
-                   "Blitzen!" ]
+                   "Donder",
+                   "Blitzen" ]

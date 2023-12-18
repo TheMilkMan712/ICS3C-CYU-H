@@ -15,7 +15,7 @@ months = [
     "November",
     "December"]
 
-month = input("Enter a month: ")
+month = input("Enter a month: ").capitalize()
 
 while month not in months:
     print("Invalid month! Try again.")
