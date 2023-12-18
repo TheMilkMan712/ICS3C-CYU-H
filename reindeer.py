@@ -2,7 +2,7 @@
 # Description: Santa's Reindeer
 
 
-santas_reindeer = ["Rudolph",
+santas_reindeer = [ "Rudolph",
                    "Dasher",
                    "Danser",
                    "Prancer",
