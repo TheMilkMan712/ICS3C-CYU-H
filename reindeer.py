@@ -2,12 +2,12 @@
 # Description: Santa's Reindeer
 
 
-santas_reindeer = ["rudolph",
-                   "dasher",
-                   "danser",
-                   "prancer",
-                   "vixen",
-                   "comet",
-                   "cupid",
-                   "donder",
-                   "blitzen" ]
+santas_reindeer = ["Rudolph",
+                   "Dasher",
+                   "Dancer",
+                   "Prancer",
+                   "Vixen",
+                   "Comet",
+                   "Cupid",
+                   "Donder",
+                   "Blitzen" ]
