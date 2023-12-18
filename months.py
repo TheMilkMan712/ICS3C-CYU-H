@@ -13,8 +13,7 @@ months = [
     "September",
     "October",
     "November",
-    "December"
-]
+    "December"]
 
 month = input("Enter a month: ")
 
